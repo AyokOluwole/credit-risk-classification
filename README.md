@@ -13,4 +13,4 @@ Definitions:
 •   Balanced accuracy:  In the first model, The Balanced Accuracy score of the model is: 0.9520479254722232 that is model was 95% accurate.  In the second model, The Balanced Accuracy score of the model is: 0.9936781215845847 that is model was 99% accurate. 
 
 Recommendation: 
-•    In taking a look at both models, it is best and healthy to go with model 2 and it had a accuracy (99%) with it needed when predicting. 
+•    In taking a look at both models, it is best and safe to go with model 2 as it had an accuracy of 99%. 
